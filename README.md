@@ -271,9 +271,10 @@ python-dotenv
 **Muhammad Zeeshan** — AI Engineer & Co-Founder [@ChatSetGo](https://www.chatsetgo.tech)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev--zeeshan--portfolio.vercel.app-0ea5e9?style=flat)](https://dev-zeeshan-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshanofficial-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/zeeshanofficial)
-[![GitHub](https://img.shields.io/badge/GitHub-dev--mzeeshan-181717?style=flat&logo=github)](https://github.com/dev-mzeeshan)
 
+**Ali Raza** — AI Researcher/Engineer & Co-Founder [@ChatSetGo](https://www.chatsetgo.tech)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev--zeeshan--portfolio.vercel.app-0ea5e9?style=flat)](https://alir99008.github.io/)
 ---
 
 ## License
