@@ -274,7 +274,7 @@ python-dotenv
 
 **Ali Raza** — AI Researcher/Engineer & Co-Founder [@ChatSetGo](https://www.chatsetgo.tech)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev--zeeshan--portfolio.vercel.app-0ea5e9?style=flat)](https://alir99008.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev--ALI--portfolio.vercel.app-0ea5e9?style=flat)](https://alir99008.github.io/)
 ---
 
 ## License
