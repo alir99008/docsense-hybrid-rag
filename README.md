@@ -15,8 +15,6 @@
 
 Most RAG demos use only semantic search. DocSense combines **BM25 keyword search + FAISS vector search** in a weighted ensemble — covering failure cases that either approach alone misses.
 
-[Live Demo →](https://docsense-hybrid-rag.streamlit.app) · [Report Bug](https://github.com/dev-mzeeshan/docsense-hybrid-rag/issues) · [LinkedIn](https://linkedin.com/in/zeeshanofficial)
-
 </div>
 
 ---
